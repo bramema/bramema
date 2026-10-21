@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mí
 
-```python
+python
 class Brayan:
     nombre = "Brayan Rafael Medina Madiedo"
     rol = "Estudiante de Desarrollo de Software 🎓"
@@ -27,7 +27,7 @@ class Brayan:
 
     def saludar(self):
         return "¡Gracias por visitar mi perfil! 👋"
-```
+
 
 ### 🎯 En lo que estoy enfocado
 
